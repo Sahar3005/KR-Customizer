@@ -1,0 +1,24 @@
+.empowering{
+    width:90%;
+    margin:100px auto;
+}
+
+.empowering-heading{
+    text-align:center;
+    font-size:30px;
+}
+
+.empowering-images{
+    width: fit-content;
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.image-card img{
+    width:200px;
+    height:200px;
+    border-radius:20px;
+    display:block;
+}
